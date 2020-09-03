@@ -1,4 +1,4 @@
-# DevConnector  
+# Connect me  
 ![note](https://github.com/lingyaHu/images/blob/master/connect-proj/app.png)  
 ### Website: 
 https://connect--me.herokuapp.com/ (Deployed to Heroku)
